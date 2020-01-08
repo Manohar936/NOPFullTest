@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="235366" started-at="2020-01-07T14:51:10Z" finished-at="2020-01-07T14:55:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="235366" started-at="2020-01-07T14:51:10Z" finished-at="2020-01-07T14:55:06Z">
+      <class name="com.qa.nop.testpages.CustomerTestPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="setUp" is-config="true" duration-ms="35466" started-at="2020-01-07T20:21:10Z" finished-at="2020-01-07T20:21:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnCustomersTestPage()[pri:1, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="clickOnCustomersTestPage" duration-ms="6187" started-at="2020-01-07T20:21:46Z" finished-at="2020-01-07T20:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCustomersTestPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="tearDown" is-config="true" duration-ms="651" started-at="2020-01-07T20:21:52Z" finished-at="2020-01-07T20:21:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="setUp" is-config="true" duration-ms="31578" started-at="2020-01-07T20:21:53Z" finished-at="2020-01-07T20:22:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnLogRequestTestPage()[pri:2, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="clickOnLogRequestTestPage" duration-ms="3877" started-at="2020-01-07T20:22:24Z" finished-at="2020-01-07T20:22:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLogRequestTestPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="tearDown" is-config="true" duration-ms="655" started-at="2020-01-07T20:22:28Z" finished-at="2020-01-07T20:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="setUp" is-config="true" duration-ms="33554" started-at="2020-01-07T20:22:29Z" finished-at="2020-01-07T20:23:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnCustomerRolesTestPage()[pri:3, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="clickOnCustomerRolesTestPage" duration-ms="6060" started-at="2020-01-07T20:23:02Z" finished-at="2020-01-07T20:23:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCustomerRolesTestPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="tearDown" is-config="true" duration-ms="663" started-at="2020-01-07T20:23:09Z" finished-at="2020-01-07T20:23:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="setUp" is-config="true" duration-ms="32456" started-at="2020-01-07T20:23:09Z" finished-at="2020-01-07T20:23:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnVendorsTestPage()[pri:4, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="clickOnVendorsTestPage" duration-ms="3687" started-at="2020-01-07T20:23:42Z" finished-at="2020-01-07T20:23:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnVendorsTestPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="tearDown" is-config="true" duration-ms="687" started-at="2020-01-07T20:23:45Z" finished-at="2020-01-07T20:23:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="setUp" is-config="true" duration-ms="34841" started-at="2020-01-07T20:23:46Z" finished-at="2020-01-07T20:24:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnActivityTestPage()[pri:5, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="clickOnActivityTestPage" duration-ms="5520" started-at="2020-01-07T20:24:21Z" finished-at="2020-01-07T20:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnActivityTestPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="tearDown" is-config="true" duration-ms="667" started-at="2020-01-07T20:24:26Z" finished-at="2020-01-07T20:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="setUp" is-config="true" duration-ms="32997" started-at="2020-01-07T20:24:27Z" finished-at="2020-01-07T20:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnActivityTypeTestPage()[pri:6, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="clickOnActivityTypeTestPage" duration-ms="5084" started-at="2020-01-07T20:25:00Z" finished-at="2020-01-07T20:25:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnActivityTypeTestPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.nop.testpages.CustomerTestPage@59fa1d9b]" name="tearDown" is-config="true" duration-ms="675" started-at="2020-01-07T20:25:05Z" finished-at="2020-01-07T20:25:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.nop.testpages.CustomerTestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
