@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.qa.nop.testpages.CustomerTestPage">
+      <class name="com.qa.nop.testpages.CatalogTestPage">
         <methods>
-          <include name="tearDown"/>
-          <include name="clickOnVendorsTestPage"/>
+          <include name="clickOnCatalogPageTest"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- com.qa.nop.testpages.CustomerTestPage -->
+      </class> <!-- com.qa.nop.testpages.CatalogTestPage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
